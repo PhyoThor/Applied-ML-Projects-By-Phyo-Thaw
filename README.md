@@ -2,7 +2,7 @@
 
 ## Creator
 
-**Diaz Phyo**
+**Phyo Thaw**
 
 Master’s Student in IT (Artificial Intelligence & Data Analytics)
 Background in Telecommunications, Digital Products, and Data-Driven Product Analytics
