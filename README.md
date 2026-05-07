@@ -55,8 +55,7 @@ Instead of only focusing on model accuracy, the projects also emphasize:
 | Diabetes Prediction          | Healthcare analytics               |
 | Breast Cancer Classification | Medical AI & evaluation            |
 | Student Pass/Fail Prediction | Educational analytics              |
-| Salary Prediction            | Regression & business analytics    |
-| Mall Customer Segmentation   | Customer intelligence & clustering |
+| Titanic_EDA|ML               | Survival analytics                 |
 
 ---
 
