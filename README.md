@@ -54,24 +54,7 @@ Instead of only focusing on model accuracy, the projects also emphasize:
 | Wine Quality Prediction      | Classification & quality analytics |
 | Diabetes Prediction          | Healthcare analytics               |
 | Breast Cancer Classification | Medical AI & evaluation            |
-| Student Pass/Fail Prediction | Educational analytics              |
 | Titanic_EDA|ML               | Survival analytics                 |
-
----
-
-# Project Structure
-
-Each project typically includes:
-
-```text
-project_name/
-│
-├── notebook.ipynb
-├── data/
-├── images/
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -117,11 +100,6 @@ Most notebooks follow a structured workflow:
 * Power BI
 * SQL
 
-## Geospatial Analytics (selected projects)
-
-* GeoPandas
-* Folium
-
 ---
 
 # Portfolio Direction
@@ -133,7 +111,6 @@ This repository reflects my interest in:
 * Customer Intelligence
 * Business Intelligence
 * Decision Support Systems
-* Geospatial Analytics
 * Data-Driven Product Strategy
 
 ---
@@ -161,7 +138,6 @@ Planned future upgrades include:
 * SQL database design
 * SHAP explainability
 * advanced feature engineering
-* geospatial analytics projects
 * AI-driven recommendation systems
 
 ---
